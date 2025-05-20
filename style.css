@@ -1,3 +1,20 @@
 body {
+h1 {
+  color: maroon;
+  text-decoration: swirly underline
+}
+h1 {
+  font-family: "Brush Script MT", sans, cursive;
+}
 
+img:hover {
+  with: 50px
+  border: zigzag pink 15px;
+  border-radius: 120%
+}
+body {
+  background-color: pink;
+
+}
+}
 }
