@@ -1,4 +1,3 @@
-body {
 h1 {
   color: maroon;
   text-decoration: swirly underline
@@ -15,6 +14,5 @@ img:hover {
 body {
   background-color: pink;
 
-}
 }
 }
